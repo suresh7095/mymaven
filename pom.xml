@@ -4,9 +4,6 @@
   <artifactId>sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>sample</name>
+  <packaging>jar</packaging>
 </project>
-<modelVersion>4.0.0</modelVersion>
-<groupId>com.suri</groupId>
-<artifactId>core-java</artifactId>
-<version>0.1.0-SNAPSHOT</version>
-<packaging>jar</packaging>
+
